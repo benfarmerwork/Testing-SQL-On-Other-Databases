@@ -1,0 +1,15 @@
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\bin\Release\PhoneBook.exe
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\bin\Release\PhoneBook.pdb
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Release\PhoneBook.Loginfrm.resources
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Release\PhoneBook.Properties.Resources.resources
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Release\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Release\PhoneBook.exe
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Release\PhoneBook.pdb
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\bin\Release\PhoneBook.exe
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\bin\Release\PhoneBook.pdb
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.Loginfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.phonebookfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.Properties.Resources.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.exe
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Release\PhoneBook.pdb

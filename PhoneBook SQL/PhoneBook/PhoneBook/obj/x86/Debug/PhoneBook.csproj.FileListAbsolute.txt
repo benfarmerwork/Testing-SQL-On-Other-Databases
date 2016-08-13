@@ -1,0 +1,29 @@
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Debug\PhoneBook.Loginfrm.resources
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Debug\PhoneBook.exe
+C:\Users\MZWEH\AppData\Local\Temporary Projects\PhoneBook\obj\x86\Debug\PhoneBook.pdb
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.exe
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.pdb
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.Loginfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.phonebookfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.splashfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.aboutfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.contactfrm.resources
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.exe
+C:\Users\MZWEH\Documents\Visual Studio 2010\Projects\Practicals\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.pdb
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.aboutfrm.resources
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.contactfrm.resources
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.Loginfrm.resources
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.phonebookfrm.resources
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.splashfrm.resources
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Kathy\Desktop\PhoneBook - Copy\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.pdb
